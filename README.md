@@ -3,7 +3,7 @@
 Pada JS 7 ini kita diperkenalkan dengan Looping atau perulangan pada program java yang dimana terdapat beberapa pernyataan yang bisa digunakan untuk perulangan diantaranya sebagai berikut :
 
  1. Pernyataan FOR
-      Bentuk pernyataan perulangan FOR adalah sebagai berikut :
+     Bentuk pernyataan perulangan FOR adalah sebagai berikut :
       1. Tunggal :
           for (ungkapan 1; ungkapan 2; ungkapan 3)
           pernyataan ;
@@ -13,11 +13,11 @@ Pada JS 7 ini kita diperkenalkan dengan Looping atau perulangan pada program jav
             pernyataan ;
             Pernyataan ;
            }
-       
-       Kegunaan dari masing - masing pernyataan for :
-        1. Ungkapan 1 : digunakan untuk memberikan inisialisasi terhadap variabel pengendali loop.
-        2. Ungkapan 2 : dipakai sebagai kondisi untuk keluar dari loop.
-        3. Ungkapan 3 : dipakai sebagai pengatur kenaikan nilai variabel pengendali loop.
+           
+           Kegunaan dari masing - masing pernyataan for :
+            Ungkapan 1 : digunakan untuk memberikan inisialisasi terhadap variabel pengendali loop.
+            Ungkapan 2 : dipakai sebagai kondisi untuk keluar dari loop.
+            Ungkapan 3 : dipakai sebagai pengatur kenaikan nilai variabel pengendali loop.
  
  2. Pernyataan WHILE
       Pada pernyataan WHILE pengecekan terhadap loop atau perulangan dilakukan dibagian awal ( sebelum bagian loop )
