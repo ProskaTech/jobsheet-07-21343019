@@ -15,9 +15,9 @@ Pada JS 7 ini kita diperkenalkan dengan Looping atau perulangan pada program jav
            }
        
        Kegunaan dari masing - masing pernyataan for :
-        a. Ungkapan 1 : digunakan untuk memberikan inisialisasi terhadap variabel pengendali loop.
-        b. Ungkapan 2 : dipakai sebagai kondisi untuk keluar dari loop.
-        c. Ungkapan 3 : dipakai sebagai pengatur kenaikan nilai variabel pengendali loop.
+        1. Ungkapan 1 : digunakan untuk memberikan inisialisasi terhadap variabel pengendali loop.
+        2. Ungkapan 2 : dipakai sebagai kondisi untuk keluar dari loop.
+        3. Ungkapan 3 : dipakai sebagai pengatur kenaikan nilai variabel pengendali loop.
  
  2. Pernyataan WHILE
       Pada pernyataan WHILE pengecekan terhadap loop atau perulangan dilakukan dibagian awal ( sebelum bagian loop )
